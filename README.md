@@ -76,15 +76,17 @@ Important: These submissions are crucial for qualifying for the next stage, so t
    - Once everything is filled out, click “Submit”! You will receive a confirmation email once your submission is successful. If you don’t see it in your inbox, check your spam folder or reach out to us for support.
 ### 🛠️ Need Support in Completion
 
-If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a). Follow these steps to get the help you need:
+If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/orgs/GSSoC24/discussions/1021). Follow these steps to get the help you need:
 
-1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a) page for the Postman-Challenge repository.
+1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/orgs/GSSoC24/discussions/1021) page for the Postman-Challenge repository.
 2. **Browse Existing Discussions**: Check if your question or issue has already been addressed.
 3. **Start a New Q&A Discussion**: If you can't find an answer, start a new discussion.
 4. **Provide Details**: Clearly describe your issue or question. 
 5. **Engage with the Community**: Engage with other community members by responding to their comments and get [GitHub Badges](https://github.com/GSSoC24/Contributor/discussions/11)<br><br>
 For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
 
+## You're All Set!
+Congratulations! You’ve now successfully submitted your project for the virtual round of Hack Web3Conf. Keep an eye out for updates and feedback from our judges. If your idea is selected, you’ll be invited to participate in the physical round in Goa, where you’ll get to bring your project to life.
 
 ## Customizing Badge on GitHub Profile
 
