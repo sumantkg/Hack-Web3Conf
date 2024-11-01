@@ -7,15 +7,15 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24/Hack-Web3Conf" alt="Stars Badge"/></a>
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/network/members"><img src="https://img.shields.io/github/forks/GSSoC24/Hack-Web3Conf" alt="Forks Badge"/></a>
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/pulls"><img src="https://img.shields.io/github/issues-pr/GSSoC24/Hack-Web3Conf" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Hack-Web3Conf" alt="Issues Badge"/></a>
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Hack-Web3Conf?color=2b9348"></a>
-<a href="https://github.com/GSSoC24/Hack-Web3Conf/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Hack-Web3Conf?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24/Postman-Challenge" alt="Stars Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/network/members"><img src="https://img.shields.io/github/forks/GSSoC24/Postman-Challenge" alt="Forks Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/pulls"><img src="https://img.shields.io/github/issues-pr/GSSoC24/Postman-Challenge" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Postman-Challenge" alt="Issues Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Postman-Challenge?color=2b9348"></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Postman-Challenge?color=2b9348" alt="License Badge"/></a>
 [![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-This is the all in one place for documentation help regarding the postman challenge.
+This is the all in one place for documentation help regarding the Hack- Web3 Conf
 </div>
 
 
@@ -23,34 +23,62 @@ This is the all in one place for documentation help regarding the postman challe
 
 ### 📚 Course and Certification Documentation
 
-To get started and complete the certification, follow the comprehensive guide provided in the documentation. It covers all the steps you need to take:
-
-  [![Read the Documentation](https://img.shields.io/badge/Read%20Documentation-blue?style=for-the-badge&logo=read-the-docs)](https://gssoc24.github.io/Postman-Challenge/)
+Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your innovative ideas in the virtual round. This guide will walk you through the simple steps to register and submit your project. Follow along, and you'll be on your way to joining the top builders in the Web3 space!
+  [![Read the Documentation]()
 
 ### 🚀 Get Started with Learning
 
-1. **Register on Postman**
-   - Begin by registering yourself using the link below to start your learning journey and to earn the certificate and badge.
+1. **Register for the Program**
+   - Visit the Hack Web3Conf Page.
+   - Start by going to our official hackathon page here.
    
-   [![Register on Postman](https://img.shields.io/badge/Register%20on%20Postman-orange?style=for-the-badge&logo=postman)](https://swiy.co/postman)
-   
-2. **Follow the Course**
-   - Once registered, follow the steps outlined in the documentation. Here's a brief overview:
-     - **Step 1:** Familiarize yourself with Postman.
-     - **Step 2:** Complete the guided exercises and challenges.
-     - **Step 3:** Take the certification test.
-     - **Step 4:** Earn your certificate and badge!
+   [![Register on Program]()
 
-3. **Earn Your Badge and Certificate**
-   - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
-   - 500 Points on GSSOC Leaderboard and new Postman API badge
+2. **Register as a Hacker**
+   - Click the “Register as a Hacker” button to start your journey.
+   - You can log in with your preferred method: Google, GitHub, or Email. Choose what works best for you!
 
 
+3. **Submit Your Project (BUIDL)**
+   - After registering, it’s time to submit your project. Here’s how:
+   - Click “Submit Buidl” and then “Create New Buidl”.
+     
+ Fill in the basic details of your project:
+
+   - Project Name: Give it a creative name!
+   - Project Logo: Upload an image to represent your project.
+   - Vision Category: Select the category that best matches your idea.
+   - Social Links: Provide at least one social media link (e.g., Twitter, LinkedIn, GitHub).
+
+4. **Add Project Details**
+   Next, describe your project:
+   - Clearly explain what your project aims to achieve and the problem it solves.
+   - Share your goals and the technologies you plan to use.
+
+5. **Add Team Members**
+   - You can have up to 4 team members. Before adding them, make sure they have also registered as hackers.
+   - Click “Add Team Members” and provide their details.
+
+6. **Provide Contact Information
+   - Enter your team’s contact info, including Telegram and Discord handles, so we can stay in touch during the hackathon.
+
+7. **Choose Your Submission Track**
+   - Select the appropriate track for your project from the available categories, such as DeFi, NFTs, or Blockchain Development.
+Submit Presentation & Video Links
+
+8. **Submit your project presentation link and video link explaining your idea.**
+Important: These submissions are crucial for qualifying for the next stage, so take your time to present your idea clearly and concisely.
+
+9. **Enter Your College Referral Code**
+  - If you have a referral code from your college, don’t forget to add it before submitting.
+
+10. **Final Submission**
+   - Once everything is filled out, click “Submit”! You will receive a confirmation email once your submission is successful. If you don’t see it in your inbox, check your spam folder or reach out to us for support.
 ### 🛠️ Need Support in Completion
 
-If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Hack-Web3Conf/discussions/categories/q-a). Follow these steps to get the help you need:
+If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a). Follow these steps to get the help you need:
 
-1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Hack-Web3Conf/discussions/categories/q-a) page for the Postman-Challenge repository.
+1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a) page for the Postman-Challenge repository.
 2. **Browse Existing Discussions**: Check if your question or issue has already been addressed.
 3. **Start a New Q&A Discussion**: If you can't find an answer, start a new discussion.
 4. **Provide Details**: Clearly describe your issue or question. 
@@ -60,7 +88,7 @@ For urgent issues or further assistance, contact the maintainers directly throug
 
 ## Customizing Badge on GitHub Profile
 
-You can copy paste the code to your profile [Check this](https://github.com/GSSoC24/Hack-Web3Conf/tree/main/docs/assets)<br>
+You can copy paste the code to your profile [Check this](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)<br>
 Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa39b68c1e?sid=6bc307c7-da57-4fda-b2e9-f9a1f5a3f3e2)
 ```
 # Badge Links
