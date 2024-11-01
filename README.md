@@ -13,7 +13,7 @@
 <a href="https://github.com/GSSoC24/Hack-Web3Conf/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Hack-Web3Conf" alt="Issues Badge"/></a>
 <a href="https://github.com/GSSoC24/Hack-Web3Conf/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Hack-Web3Conf?color=2b9348"></a>
 <a href="https://github.com/GSSoC24/Hack-Web3Conf/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Hack-Web3Conf?color=2b9348" alt="License Badge"/></a>
-[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gssoc&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the all in one place for documentation help regarding the Hack- Web3 Conf
 </div>
