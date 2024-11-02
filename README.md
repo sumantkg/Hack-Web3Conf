@@ -24,7 +24,7 @@ This is the all in one place for documentation help regarding the Hack- Web3 Con
 ### 📚 Course and Certification Documentation
 
 Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your innovative ideas in the virtual round. This guide will walk you through the simple steps to register and submit your project. Follow along, and you'll be on your way to joining the top builders in the Web3 space!
-  [![Read the Documentation]()
+  [![Read the Documentation](https://docs.google.com/document/d/1IZ51hkVGmXJKIEZJ1YZaTwDrvBBD_LMRgZu0GJZ_Rd0/edit?tab=t.0)
 
 ### 🚀 Get Started with Learning
 
@@ -32,7 +32,7 @@ Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your in
    - Visit the Hack Web3Conf Page.
    - Start by going to our official hackathon page here.
    
-   [![Register on Program]()
+   [![Register on Program](https://dorahacks.io/hackathon/hack-web3conf-24/buidl)
 
 2. **Register as a Hacker**
    - Click the “Register as a Hacker” button to start your journey.
