@@ -32,7 +32,16 @@ Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your in
    - Visit the Hack Web3Conf Page.
    - Start by going to our official hackathon page here.<br>
    [![Register for Program](https://img.shields.io/badge/Register-orange?style=for-the-badge&logo=read-the-docs)](https://dorahacks.io/hackathon/hack-web3conf-24/buidl)
-   
+
+   <div>
+    <a href="https://www.loom.com/share/1a96c288d25a4aa1acada4f35243296e">
+      <p>GSSoC24/Hack-Web3Conf: This is the repo for Hack Web3Conf - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1a96c288d25a4aa1acada4f35243296e">
+      <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/1a96c288d25a4aa1acada4f35243296e-5cc400501eb37fff-full-play.gif">
+    </a>
+  </div>
+  
 2. **Register as a Hacker**
    - Click the “Register as a Hacker” button to start your journey.
    - You can log in with your preferred method: Google, GitHub, or Email. Choose what works best for you!
