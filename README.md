@@ -31,7 +31,7 @@ Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your in
 1. **Register for the Program**
    - Visit the Hack Web3Conf Page.
    - Start by going to our official hackathon page here.<br>
-   [![Register for Program](https://img.shields.io/badge/Register-orange?style=for-the-badge&logo=read-the-docs)](https://dorahacks.io/hackathon/hack-web3conf-24/buidl)
+   [![Register for Program](https://img.shields.io/badge/Register-orange?style=for-the-badge&logo=read-the-docs)](https://swiy.co/hack-web3)
 
    <div>
     <a href="https://www.loom.com/share/1a96c288d25a4aa1acada4f35243296e">
