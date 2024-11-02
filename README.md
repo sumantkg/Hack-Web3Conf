@@ -78,7 +78,7 @@ Submit Presentation & Video Links
 Important: These submissions are crucial for qualifying for the next stage, so take your time to present your idea clearly and concisely.
 
 9. **Enter Your College Referral Code**
-  - If you have a referral code from your college, don’t forget to add it before submitting.
+  - If you have a referral code from your college, don’t forget to add it before submitting. or you can use `gssoc`
 
 10. **Final Submission**
    - Once everything is filled out, click “Submit”! You will receive a confirmation email once your submission is successful. If you don’t see it in your inbox, check your spam folder or reach out to us for support.
