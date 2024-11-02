@@ -67,7 +67,7 @@ Welcome to Hack Web3Conf! We're so excited that you're ready to showcase your in
    - You can have up to 4 team members. Before adding them, make sure they have also registered as hackers.
    - Click “Add Team Members” and provide their details.
 
-6. **Provide Contact Information
+6. **Provide Contact Information**
    - Enter your team’s contact info, including Telegram and Discord handles, so we can stay in touch during the hackathon.
 
 7. **Choose Your Submission Track**
@@ -78,7 +78,7 @@ Submit Presentation & Video Links
 Important: These submissions are crucial for qualifying for the next stage, so take your time to present your idea clearly and concisely.
 
 9. **Enter Your College Referral Code**
-  - If you have a referral code from your college, don’t forget to add it before submitting. or you can use `gssoc`
+  - If you have a referral code from your college, don’t forget to add it before submitting. or you can use `gssoc-ext`
 
 10. **Final Submission**
    - Once everything is filled out, click “Submit”! You will receive a confirmation email once your submission is successful. If you don’t see it in your inbox, check your spam folder or reach out to us for support.
